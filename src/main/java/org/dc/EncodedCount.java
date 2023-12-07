@@ -1,4 +1,4 @@
-package org.dc.common;
+package org.dc;
 
 public class EncodedCount {
     private static final int MAX_ENCODED_VALUE = 26;

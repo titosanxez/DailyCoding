@@ -1,6 +1,5 @@
 package org.dc;
 
-import org.dc.common.EncodedCount;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
