@@ -21,7 +21,7 @@ class ArithmeticExpression {
             (l, r) -> (l * r)
     );
 
-    private Node node;
+    private final Node node;
 
     public ArithmeticExpression(String expression) {
         this.node = parse(expression);

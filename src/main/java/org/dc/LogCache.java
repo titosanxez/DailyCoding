@@ -1,9 +1,5 @@
 package org.dc;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedList;
-
 public class LogCache {
     private final Long[] entries;
     private int startIndex;
